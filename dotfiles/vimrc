@@ -17,11 +17,11 @@ nnoremap Y y$
 nnoremap j gj
 nnoremap k gk
 
-" Display tab as >~~~
+" display tab as >~~~
 set list
 set listchars=tab:>~
 
-" Setup undodir
+" setup undodir
 if !isdirectory($HOME."/.vim/undo-dir")
     call mkdir($HOME."/.vim/undo-dir", "p", 0700)
 endif
