@@ -1,0 +1,6 @@
+[user]
+    email = mat.siwiec@gmail.com
+    name = Mateusz Siwiec
+[alias]
+    st = status
+    tree = log --all --graph --decorate --oneline
