@@ -16,4 +16,5 @@ brew install \
     tmux \
     unrar \
     vim \
-    wget
+    wget \
+    pyenv
