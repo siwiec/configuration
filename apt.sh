@@ -11,4 +11,9 @@ sudo apt-get -y install \
     telnet \
     netcat \
     wget \
-    subversion
+    subversion \
+    chromium-browser \
+    traceroute \
+    qbittorrent \
+    p7zip-full \
+    inetutils-traceroute

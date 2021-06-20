@@ -1,6 +1,7 @@
 # aliases for both zsh and bash
 alias ..='cd ..'
-# alias ls='ls --color' # color output on Linux
-alias ls='ls -G'        # color output on Mac
+alias l='ls --color' # color output on Linux
+alias sl='ls --color' # color output on Linux
+alias ls='ls --color' # color output on Linux
 alias untar='tar -zxvf'
 alias grep='grep -n --color'
